@@ -1,0 +1,3 @@
+Run the code given below in Terminal but change the "images/receipt.jpg" to the location of the image
+
+python scan.py --image "images/receipt.jpg"
